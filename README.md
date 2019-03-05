@@ -34,3 +34,4 @@ determine who will make future tournaments and to see if there are any patterns 
 tournament.
 
 ## Analysis
+For the analysis, we drew a relationship between team performance in the regular season and tournament performance. Unfortunately, we didn't see as much of a relationship as we would have liked, at least for the 5 teams tested: Duke, UVA, Gonzaga, Michigan, North Carolina.
