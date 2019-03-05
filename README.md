@@ -28,8 +28,9 @@ We loaded both data sets to a database in MySQL. We decided to use MySQL because
 for future analysis. It will also be easy to add to it as more games are played.
 
 We also scraped the web to find ESPNs projections on who would make the NCAA Tournament this year. We wanted to store this data in MongoDB
-so that we could see the differences each time the projections were updated. Having this data stored could help with future analysis to
-determine who will make future tournaments and to see if there are any patterns in the projections compared ot who ultimately makes the
+so that we could see the differences each time the projections were updated. The data contains the date of when the projections were 
+pulled to keep track of how the projections can change over time. Having this data stored could help with future analysis to
+determine who will make future tournaments and to see if there are any patterns in the projections compared to who ultimately makes the
 tournament.
 
 ## Analysis
